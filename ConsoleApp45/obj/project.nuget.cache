@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ssiqlVc5UUPTitV5Cpt9nxyb11dnYvlteE8G/p2pu2lMIKNmpr6ZUcF0+UOD+pLrPolZi4/NYtqwtkEAji/RLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lacro\\source\\repos\\ConsoleApp45\\ConsoleApp45\\ConsoleApp45.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lacro\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
